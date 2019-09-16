@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1568617331 "/home/khaled/work/latex-tutorial/tutorial1.tex" "/home/khaled/work/latex-tutorial/tutorial1.pdf" "tutorial1" 1568617331
+["pdflatex"] 1568620315 "/home/khaled/work/latex-tutorial/tutorial1.tex" "/home/khaled/work/latex-tutorial/tutorial1.pdf" "tutorial1" 1568620315
   "/etc/texmf/web2c/texmf.cnf" 1568610855 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/khaled/work/latex-tutorial/tutorial1.aux" 1568617331 577 dd30535f2fcdbc05c32e3afc9513cb40 ""
-  "/home/khaled/work/latex-tutorial/tutorial1.tex" 1568617330 1225 7fc6e73f362de4af7859dd03ea33a1c9 ""
+  "/home/khaled/work/latex-tutorial/tutorial1.aux" 1568620315 577 dd30535f2fcdbc05c32e3afc9513cb40 ""
+  "/home/khaled/work/latex-tutorial/tutorial1.tex" 1568620314 1259 68f147bcd5edbd783c2303cf61ed73ee ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -58,13 +58,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1568610894 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1568610917 4132503 c55c0362d832ae059177dee763936435 ""
   "rose.jpeg" 1568617215 20775 e4949bdb5f9077bfed982ca9b7bfadbd ""
-  "tutorial1.aux" 1568617331 577 dd30535f2fcdbc05c32e3afc9513cb40 ""
-  "tutorial1.tex" 1568617330 1225 7fc6e73f362de4af7859dd03ea33a1c9 ""
-  "tutorial1.toc" 1568617331 443 4c11558b9cdc75b23bea13105cbc83fb ""
+  "tutorial1.aux" 1568620315 577 dd30535f2fcdbc05c32e3afc9513cb40 ""
+  "tutorial1.tex" 1568620314 1259 68f147bcd5edbd783c2303cf61ed73ee ""
+  "tutorial1.toc" 1568620315 443 4c11558b9cdc75b23bea13105cbc83fb ""
   (generated)
-  "tutorial1.pdf"
   "/home/khaled/work/latex-tutorial/tutorial1.pdf"
   "tutorial1.toc"
-  "tutorial1.log"
   "/home/khaled/work/latex-tutorial/tutorial1.log"
   "tutorial1.aux"
+  "tutorial1.log"
+  "tutorial1.pdf"
